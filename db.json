@@ -95,7 +95,7 @@
       "id": 27
     },
     {
-      "name": "Kupus",
+      "name": "Cabbage stew",
       "ingredientList": [
         {
           "id": 2,
@@ -445,7 +445,7 @@
       "id": 51
     },
     {
-      "name": "Przenica",
+      "name": "French Toast",
       "ingredientList": [
         {
           "id": 11,
@@ -481,7 +481,7 @@
       "id": 52
     },
     {
-      "name": "Keto przenice rerna",
+      "name": "Keto French Toast",
       "ingredientList": [
         {
           "id": 2,
@@ -495,7 +495,7 @@
         },
         {
           "id": 3,
-          "name": "Pavlaka",
+          "name": "Sour cream",
           "amount": 15,
           "calories": 35,
           "carbs": 1,
@@ -563,7 +563,7 @@
       "id": 55
     },
     {
-      "name": "Mayo",
+      "name": "Mayo Homemade",
       "ingredientList": [
         {
           "id": 2,
@@ -661,7 +661,7 @@
       "id": 58
     },
     {
-      "name": "Pljeskavice",
+      "name": "Pork burger",
       "ingredientList": [
         {
           "id": 7,
@@ -749,7 +749,7 @@
       "id": 62
     },
     {
-      "name": "Tursija od Paprike",
+      "name": "Pickled Pepper",
       "ingredientList": [
         {
           "id": 2,
@@ -1529,7 +1529,7 @@
       "id": 92
     },
     {
-      "name": "Paprikas",
+      "name": "Paprikash",
       "ingredientList": [
         {
           "id": 2,
@@ -1647,7 +1647,7 @@
       "id": 96
     },
     {
-      "name": "Grasak",
+      "name": "Green Peas Stew",
       "ingredientList": [
         {
           "id": 2,
